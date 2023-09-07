@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="IDmyPillLogo">
+    <file>IDmyPillLogo.png</file>
+  </qresource>
+</RCC>
